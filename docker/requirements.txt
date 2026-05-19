@@ -1,0 +1,8 @@
+pyspark
+redis
+psycopg2-binary
+requests
+confluent-kafka
+websocket-client
+python-dotenv
+pandas

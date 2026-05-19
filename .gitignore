@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+airflow_project/logs/
+airflow_project/config/airflow.cfg
+*.checkpoint/
+.pytest_cache/
+data-lake/
