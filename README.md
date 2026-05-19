@@ -9,7 +9,7 @@
 
 **CryptoPulse Intelligence Platform** is an enterprise-grade real-time market intelligence pipeline for crypto analytics, risk monitoring, alerting, and downstream data products. It combines Binance trades, market news, and FRED macroeconomic indicators into a Kafka-centered streaming architecture. Spark Structured Streaming enriches the feeds, calculates market intelligence signals, and fans results out to a data lake, Supabase/PostgreSQL, Redis, and a Kafka alerts topic.
 
-![CryptoPulse Architecture](Project%20archtecture.png)
+
 
 ## Platform Overview
 
